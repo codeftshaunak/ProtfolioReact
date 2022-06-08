@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+        box-sizing: border-box;
+}
+
+
+.card_container {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin: auto;
+}
+
+.card_body {
+        margin: 10px;
+        background-color: rgb(243, 243, 243);
+        border-radius: 10px;
+        box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+        width: 300px;
+}
+
+.card-header img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+}
+
+.card__body {
+
+        padding: 10px;
+}
+
+.card__body p {
+        font-size: 13px;
+        margin: 0 0 40px;
+}
+
+.card__body h4 {
+        color: black;
+}
+
+.user {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+}
+
+.user svg {
+        color: #3b5091;
+        font-size: 30px;
+        transition: 0.4s ease-in-out;
+}
+
+.user svg:hover {
+        color: #1c2c5c;
+}

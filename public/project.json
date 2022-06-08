@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "629c78396c567bd75b1cb18a",
+    "projectname": "Own Your Product",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://ownproduct-a0bad.web.app/",
+    "codelink": "https://github.com/codeftshaunak/ownproducts",
+    "projectimage": "https://i.ibb.co/n3gQf98/project1.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript', 'React JS', 'Firebase', 'Tailwind']"
+  },
+  {
+    "_id": "629c7839f59cb730d13c2b369",
+    "projectname": "Career Couching",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://career-couching.netlify.app/",
+    "codelink": "https://github.com/codeftshaunak/careercouch",
+    "projectimage": "https://i.ibb.co/9WDHVML/Screenshot-2022-06-06-at-15-37-14-Shaunak-s-Couching.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript', 'React JS', 'Firebase']"
+  },
+  {
+    "_id": "629c7839f59cb730d13c2b36",
+    "projectname": "Book Business Shop",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://shaunakbookshop.web.app/",
+    "codelink": "https://github.com/codeftshaunak/bookswarehouse",
+    "projectimage": "https://i.ibb.co/h2M752Q/Screen-Shot-2022-06-05-at-15-47-07.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript', 'React JS', 'Firebase', 'Tailwind']"
+  },
+  {
+    "_id": "629c7839c612e72cb0722f78",
+    "projectname": "Product Review Website",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://laptopreviewss.netlify.app/",
+    "codelink": "",
+    "projectimage": "https://i.ibb.co/TR0r13D/Screen-Shot-2022-06-05-at-16-16-48.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  },
+  {
+    "_id": "629c783994d889889d4a242c",
+    "projectname": "Find Your Phone",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://cocky-poitras-385ac4.netlify.app/",
+    "codelink": "",
+    "projectimage": "https://i.ibb.co/NmfmNbd/Screenshot-2022-06-06-at-15-19-25-Find-Your-Phone.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript', 'API']"
+  },
+  {
+    "_id": "629c7839fcd6974788d1d1df",
+    "projectname": "Memory Game",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://memory-game-webapp.netlify.app/",
+    "codelink": "https://github.com/codeftshaunak/Memory-Game",
+    "projectimage": "https://i.ibb.co/Nrtsvpv/Screenshot-2022-06-06-at-15-21-19-Memory-Game.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  },
+  {
+    "_id": "629c7839002010ce3a52693f",
+    "projectname": "Food Recipe",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://food-recipe-webaplication.netlify.app/",
+    "codelink": "https://github.com/codeftshaunak/Food-Recipe-Application",
+    "projectimage": "https://i.ibb.co/Wkp3PJc/Screenshot-2022-06-06-at-15-25-39-Recipes-App.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  },
+  {
+    "_id": "629c7839465fd4c079d001fa",
+    "projectname": "Agency Website",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://wpwebsite.netlify.app",
+    "codelink": "https://github.com/codeftshaunak/WP-Pool",
+    "projectimage": "https://i.ibb.co/NY8jrJY/Screenshot-2022-06-06-at-15-27-33-WP-Pool.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  },
+  {
+    "_id": "629c78392a56116e7367915a",
+    "projectname": "Netflix Clone",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://netflixwebsite.netlify.app",
+    "codelink": "https://github.com/codeftshaunak/Netflix_Website",
+    "projectimage": "https://i.ibb.co/f23N1C3/Screenshot-2022-06-06-at-15-29-59-Netflix-Clone.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  },
+  {
+    "_id": "629c7839593248b66a8bde8c",
+    "projectname": "Hulu Website Clone",
+    "projectdes": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "livesitelink": "https://hulumovies.netlify.app/",
+    "codelink": "https://github.com/codeftshaunak/HuluWebsite_Clone",
+    "projectimage": "https://i.ibb.co/V3ZJSQT/Screenshot-2022-06-06-at-15-31-05-Stream-TV-and-Movies-Hulu.png",
+    "usingtechnology":"['HTML', 'CSS', 'JavaScript']"
+  }
+]

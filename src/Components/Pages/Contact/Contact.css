@@ -1,0 +1,19 @@
+.contact__body {
+        text-align: center;
+        width: 70%;
+        margin: auto;
+        padding-bottom: 30px;
+}
+
+.contact__body button {
+        padding: 10px;
+        background: none;
+        color: #51eec9;
+        border: 2px solid #00c798;
+        font-size: 15px;
+        cursor: pointer;
+}
+
+.contact__body button:hover {
+        background-color: #03f5bd5d;
+}
