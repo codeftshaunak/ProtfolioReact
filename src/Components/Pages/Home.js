@@ -132,40 +132,12 @@ function Home() {
 
             <div className="left-column">
               <img id="profile_pic" src={profilePicture} alt="6" border="0" />
-              <br />
-              <h5>Personalize Theme</h5>
-
-              <div className="theme-option-wrapper">
-                <div
-                  data-mode="light"
-                  id="light-mode"
-                  className="theme-dot"
-                ></div>
-                <div
-                  data-mode="dark"
-                  id="Dark-mode"
-                  className="theme-dot"
-                ></div>
-                <div
-                  data-mode="blue"
-                  id="blue-mode"
-                  className="theme-dot"
-                ></div>
-                <div
-                  data-mode="green"
-                  id="green-mode"
-                  className="theme-dot"
-                ></div>
-                <div
-                  data-mode="purple"
-                  id="purple-mode"
-                  className="theme-dot"
-                ></div>
-              </div>
-
-              <p id="setting_note">
-                Theme setting will be saved for <br /> your next visit
-              </p>
+              <a
+                href="https://drive.google.com/file/d/1zvxgtwFjePd-36VGNX5U1qIpLcm_Ygny/view?usp=sharing"
+                target="_blank"
+              >
+                Download Resume
+              </a>
             </div>
 
             <div className="right-column">
@@ -173,7 +145,6 @@ function Home() {
                 <div id="preview">
                   <div id="corner-tl" className="corner"></div>
                   <div id="corner-tr" className="corner"></div>
-
                   <h3>
                     <span>W</span>hat I Do
                   </h3>
@@ -220,15 +191,6 @@ function Home() {
                 <p>
                   <span>I</span> am a MERN stack web application developer focus
                   on React Mongo Epress And Node: <br />
-                  <a href="https://drive.google.com/file/d/1zvxgtwFjePd-36VGNX5U1qIpLcm_Ygny/view?usp=sharing">
-                    Download Resume
-                    <img
-                      id="download"
-                      src="https://cdn.dribbble.com/users/151595/screenshots/3517495/icon_downloading.gif"
-                      alt="free-gif-icon-14"
-                      border="0"
-                    />
-                  </a>
                 </p>
 
                 <div id="skill">
@@ -249,6 +211,39 @@ function Home() {
                   </ul>
                 </div>
               </div>
+              <h5>Personalize Theme</h5>
+
+              <div className="theme-option-wrapper">
+                <div
+                  data-mode="light"
+                  id="light-mode"
+                  className="theme-dot"
+                ></div>
+                <div
+                  data-mode="dark"
+                  id="Dark-mode"
+                  className="theme-dot"
+                ></div>
+                <div
+                  data-mode="blue"
+                  id="blue-mode"
+                  className="theme-dot"
+                ></div>
+                <div
+                  data-mode="green"
+                  id="green-mode"
+                  className="theme-dot"
+                ></div>
+                <div
+                  data-mode="purple"
+                  id="purple-mode"
+                  className="theme-dot"
+                ></div>
+              </div>
+
+              <p id="setting_note">
+                Theme setting will be saved for <br /> your next visit
+              </p>
             </ScrollAnimation>
 
             <div className="social">

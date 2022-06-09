@@ -218,11 +218,27 @@ button {
 }
 
 .left-column {
+        display: grid;
         grid-area: left;
         padding-top: 30px;
-        padding-bottom: 30px;
         line-height: 10px;
         text-align: center;
+}
+
+.left-column a {
+        width: 150px;
+        margin: auto;
+        border: 1px solid white;
+        padding: 10px;
+        color: var(--themeDotBorder);
+        transition: 1s ease-in-out;
+        font-weight: 600;
+}
+
+.left-column a:hover {
+        border: 1px solid white;
+        background-color: #00c3ff;
+        color: #0a192f
 }
 
 #profile_pic {

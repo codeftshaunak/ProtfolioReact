@@ -1,11 +1,19 @@
-.contact__body {
+.container {
         text-align: center;
-        width: 70%;
         margin: auto;
         padding-bottom: 30px;
+        height: 70vh;
+        padding-top: 20px;
 }
 
-.contact__body button {
+.form-control {
+        padding: 10px;
+        margin-top: 5px;
+        color: black;
+        width: 100%;
+}
+
+.button {
         padding: 10px;
         background: none;
         color: #51eec9;
@@ -14,6 +22,6 @@
         cursor: pointer;
 }
 
-.contact__body button:hover {
+.button:hover {
         background-color: #03f5bd5d;
 }
